@@ -120,17 +120,1153 @@
   <metadata name="kryptonPalette1.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
   </metadata>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="kryptonPalette1.ButtonSpecs.FormClose.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAVlJREFUOE+1
+        ks1Kw0AUhWerG13oA7jW1xGaNtL8mNIYWiyaoC1uBLWgq7qKLrrvTnyZLgWt4KJtaIxt/ibeMVdrcQZ0
+        4YHDEO757tzMDPkX+ZdnW4HTuH+rm0+zmjkIbPtu2G5vYlmskdtbiaraS6YUKc+BVRmOu91VjC9q4l6t
+        xXohzZQSF2amUIu0Yup3OuuIzTUzlAnlQN9N1QKsJTqtKgFiubxWaztTpB+AyGyS0emJjDiMb+0+8IIi
+        p6pEp3uVAeKExHop4QVFptAg0uUEcUIS7W8NsnKRhvrOvEFolH1uUGA2QWioPuJwBo3aDS8ocqrCIQKD
+        OCHPrrtM1bzAVh7E/HnNsQY3Bgziubyjpp2Vpa+QyClsMG46B4gtyju2L/Ip2IPJAQrvg/0za8yub3Lo
+        nGOcL+/2emNWN/uRJkODwseOCfh13+qzGsZ+p8deb4kZPzki5B2LBcOo+idxowAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormClose.ImageStates.ImageNormal" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAVlJREFUOE+1
+        ks1Kw0AUhWerG13oA7jW1xGaNtL8mNIYWiyaoC1uBLWgq7qKLrrvTnyZLgWt4KJtaIxt/ibeMVdrcQZ0
+        4YHDEO757tzMDPkX+ZdnW4HTuH+rm0+zmjkIbPtu2G5vYlmskdtbiaraS6YUKc+BVRmOu91VjC9q4l6t
+        xXohzZQSF2amUIu0Yup3OuuIzTUzlAnlQN9N1QKsJTqtKgFiubxWaztTpB+AyGyS0emJjDiMb+0+8IIi
+        p6pEp3uVAeKExHop4QVFptAg0uUEcUIS7W8NsnKRhvrOvEFolH1uUGA2QWioPuJwBo3aDS8ocqrCIQKD
+        OCHPrrtM1bzAVh7E/HnNsQY3Bgziubyjpp2Vpa+QyClsMG46B4gtyju2L/Ip2IPJAQrvg/0za8yub3Lo
+        nGOcL+/2emNWN/uRJkODwseOCfh13+qzGsZ+p8deb4kZPzki5B2LBcOo+idxowAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormClose.ImageStates.ImagePressed" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAATFJREFUOE+1
+        kT1Ow0AQhbeFBgo4ADW25X8HJyaOhJBSWErjLpdAEfJP1itXcAdugbhMSgpSUNCA6MiKWe2gOGgshYIn
+        Pcmred/seob9i+rr1FjGg6dl5L3wwF/XcfxYTCbnWO5XcZUfNYHz2tqmpFyH3ls7mx1jfFeLLD0RrrFp
+        bYuEtS3ZOOammk5PEduKu/Y7DXVtgC3JffsTMa1yPM51kYIoW7JIkznijFWh+0wHaQu4jAfeGnHGhGt9
+        UcF+G7IBBnFo4Py1gSl5twEM8IMK9Rt+ARjEYQaD6IEO0hZqiMAgzlibZYc/hd9hysKBjQGDuFaZJLf7
+        rFKAy8vRArFdVaPhvX5Ft5H61me1vvpieIdxWjzLznjkrxpHN1I3KtdRuFI1jO2nmzw/UMYjIca+ARr4
+        LiYhGZ6KAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormClose.ImageStates.ImageTracking" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAU9JREFUOE9j
+        oAnYkpGssyMidPPOIP8nu4L8n+6IiNi4KTVVGyqNG6wq7+Df4+f1cr+Hyz9seEeAz9v1BQUCUOWoYHNx
+        msgeL6e/2DTC8D4g3uPl8ndbbq4oVBsC7Pbx+ARSgE0jDO/zdALTO/08vkK1QcCW2NjQ/R7OGBpwYZBF
+        GxPjYqDaGRi2BXg/wKYQF97n6fxvZ4DPU6h2Bgagv/5gU4gLgwzY4+X6B6qdgWEviQbsd3f5t9vLDWHA
+        bh/3z1gV4sAgF+z28fwM1Q4Mg5DgWdgU4sL7PIGBCNQD1Q5MAw0NXCBBGMamCYRh0bzHy/kfSA9UOwRs
+        jYwp3e/uDFeEC4Ms2BIdWQzVhgo2R0e2Q1wBSTBgDcD0AfIzyGAQvT0iog2qHDvYVJKjuDvQ/wYwmoAG
+        OIFt3AvE20MCboDkoMqIA6v6+jhBGMrFAhgYAFHyeS+h5vejAAAAAElFTkSuQmCC
+</value>
+  </data>
+  <assembly alias="ComponentFactory.Krypton.Toolkit" name="ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e" />
+  <data name="kryptonPalette1.ButtonSpecs.FormClose.Style" type="ComponentFactory.Krypton.Toolkit.PaletteButtonStyle, ComponentFactory.Krypton.Toolkit">
+    <value>Form</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormMax.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAJdJREFUOE+l
+        kt0NgCAMhHEBttHNfAfWgtmsPS2JP60SuORLlPagtDhNRDSFEJYY4wpSSjPWJGxLjIUhg2JuxEHPbJdk
+        C+R4sZ2Sk1vMle1WCS98lW2RD7OcriX8clSBDmvBFuB1GJMWbAHe8Q2GrzDcRIh/8jPYwDlGSKrof0gQ
+        L/Y/5Sqp5Os6+XWyJiShwxgTwLdudG4HiCf+6jpjihYAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormMin.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAY1JREFUOE+t
+        k09LAkEYxkfqFHTsC6hrYmIoVFTouisrpWJhCkJ/SCFPgUEQdPMjdOpD2Ifo0MHEnZntFtStr1CklrPN
+        7L5uqVtdfOBhhn2f37vDzrto6mqazZkcrVxFca4rGQoL0ARbItpHql26qemNOYi5q9CqxYIkNfAbSeZm
+        iaosi6tnEB/VEa5H/NQJm2O2ni/SOPMaKZbXj+uA2TJN0xMi6b5kNZDHYaeBRBVR52uSVR8v5gFHqNg5
+        KUPIDRa2GgwtGQm23tltAo7QJik8Q9ENFh5twE8QIloPcIRieLsLxX9h4QCV+SoPAEcoijPvvOAGCw9B
+        Z+/j3yFAFAY4Qqt4p/UjNO6JBsJhonQBR6hE65r0HfrLFuzlAya3y9eA24rquVefofJAYviWCTiEZX58
+        VQzUoHHbmAXUVoVcLoR1lU+huGvnqCMNLNiIs+x9VQFsVKLJMt568/Gw+AdsyL42MaVBonxm7g7XIP67
+        9h/Oixt07ylC0r0I0forev4l3zk45SPrgci0hNAXjmlvxt5FYWAAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormMin.ImageStates.ImageNormal" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAY1JREFUOE+t
+        k09LAkEYxkfqFHTsC6hrYmIoVFTouisrpWJhCkJ/SCFPgUEQdPMjdOpD2Ifo0MHEnZntFtStr1CklrPN
+        7L5uqVtdfOBhhn2f37vDzrto6mqazZkcrVxFca4rGQoL0ARbItpHql26qemNOYi5q9CqxYIkNfAbSeZm
+        iaosi6tnEB/VEa5H/NQJm2O2ni/SOPMaKZbXj+uA2TJN0xMi6b5kNZDHYaeBRBVR52uSVR8v5gFHqNg5
+        KUPIDRa2GgwtGQm23tltAo7QJik8Q9ENFh5twE8QIloPcIRieLsLxX9h4QCV+SoPAEcoijPvvOAGCw9B
+        Z+/j3yFAFAY4Qqt4p/UjNO6JBsJhonQBR6hE65r0HfrLFuzlAya3y9eA24rquVefofJAYviWCTiEZX58
+        VQzUoHHbmAXUVoVcLoR1lU+huGvnqCMNLNiIs+x9VQFsVKLJMt568/Gw+AdsyL42MaVBonxm7g7XIP67
+        9h/Oixt07ylC0r0I0forev4l3zk45SPrgci0hNAXjmlvxt5FYWAAAAAASUVORK5CYII=
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormMin.ImageStates.ImagePressed" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAVxJREFUOE+t
+        k8tOg0AYhafRlYmLyqV4o0CLlKZiLwsSjUlduHRnE7c1dGYWJrpy7SN05UPUB/EhdOcraGyrDM7ArwKi
+        cdGTnEBmzndC/vyghWswGSzZtD3W8M50jRpMolWmEuvNCpp3PXyyArFiubjXlYkVCrDYJnNw9wriWbUC
+        30uFo5zjc5nqrEwt5ozal4AliqKopJDaHIJ5+Ksgbef6YBVw/umjzhlcFMHCuYIq28LuBHCEdOI+wmUR
+        LJwrMMRgZ4AjtI7r8cS5/wVLyTMEHCEN26/8oAgW/gTT70wiBgMcoU3SuE+F8i4sUIkxBZwPkfjHqdBf
+        juEytxG0bgFPxDfvWSyKmDAEf8AKFuciY4b9m/4yoIk6w0NFxWZ+CzMFCawz53zvCLCsRImG6y8iLP6B
+        BPq2TIx3e+j5EP9dHtk/3abNhwqpzSrEmm9g56mBdy/4ypYgsigh9AGDYwaxmJ2dRQAAAABJRU5ErkJg
+        gg==
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormMin.ImageStates.ImageTracking" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAX1JREFUOE+t
+        k09OwkAUxh/RlYlLN2VE0GBYEEqRABVR/C9BSYySeAJXJnoEjsBCrZ2pHKAexEPozitoRJTWN+2jClTd
+        +CVfpul8v9eXmVf4d9m2PaFbtXaS611maQ4TGWeO59+XjOrdgXk6RbFwVS73czGe60etrBNmJnKOLuoX
+        FB/WnjjKREUQdkfsvZ/FbhQLi/Ddc8J8ua4bifN8j3kF1FE4KMCEJvdxzTqN28Y04QBVo35CoTBY2isw
+        MLMyTvpmxSYcIM0rj7QZBksPF8AOsOM3wgEWeaFLm3/C0kyouKp9wgGSvPSKG2Gw9AAMnhV5DlxzCAdI
+        8fL9t9CoxwpIJ7jWJRxgTRxus6/Qb/ZgBQcsa2xcE+4raerP8o6jeMIUHIPjXPXmAAeq32q1Jgn1Ves0
+        ZxKmnEJ510GrQwU8GD9QvKqvEzYsWWSBF14UDMt/wIf8a5NTGuPaR6m9U6T4z9rsNI/TYvVhHu8a3UuZ
+        y09lY+sMRzZCkf8SwCcvnjt3vyLqgQAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="kryptonPalette1.ButtonSpecs.FormMin.Style" type="ComponentFactory.Krypton.Toolkit.PaletteButtonStyle, ComponentFactory.Krypton.Toolkit">
+    <value>Form</value>
+  </data>
+  <data name="btn_1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 311</value>
+  </data>
+  <data name="btn_1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <assembly alias="mscorlib" name="mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_1.TabIndex" type="System.Int32, mscorlib">
+    <value>0</value>
+  </data>
+  <data name="btn_1.Values.Text" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="&gt;&gt;btn_1.Name" xml:space="preserve">
+    <value>btn_1</value>
+  </data>
+  <data name="&gt;&gt;btn_1.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_1.ZOrder" xml:space="preserve">
+    <value>26</value>
+  </data>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="btn_9.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_9.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 199</value>
+  </data>
+  <data name="btn_9.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_9.TabIndex" type="System.Int32, mscorlib">
+    <value>11</value>
+  </data>
+  <data name="btn_9.Values.Text" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="&gt;&gt;btn_9.Name" xml:space="preserve">
+    <value>btn_9</value>
+  </data>
+  <data name="&gt;&gt;btn_9.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_9.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_9.ZOrder" xml:space="preserve">
+    <value>22</value>
+  </data>
+  <data name="btn_8.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_8.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 199</value>
+  </data>
+  <data name="btn_8.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_8.TabIndex" type="System.Int32, mscorlib">
+    <value>10</value>
+  </data>
+  <data name="btn_8.Values.Text" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="&gt;&gt;btn_8.Name" xml:space="preserve">
+    <value>btn_8</value>
+  </data>
+  <data name="&gt;&gt;btn_8.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_8.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_8.ZOrder" xml:space="preserve">
+    <value>23</value>
+  </data>
+  <data name="btn_7.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_7.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 199</value>
+  </data>
+  <data name="btn_7.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_7.TabIndex" type="System.Int32, mscorlib">
+    <value>9</value>
+  </data>
+  <data name="btn_7.Values.Text" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="&gt;&gt;btn_7.Name" xml:space="preserve">
+    <value>btn_7</value>
+  </data>
+  <data name="&gt;&gt;btn_7.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_7.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_7.ZOrder" xml:space="preserve">
+    <value>25</value>
+  </data>
+  <data name="btn_6.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_6.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 255</value>
+  </data>
+  <data name="btn_6.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_6.TabIndex" type="System.Int32, mscorlib">
+    <value>8</value>
+  </data>
+  <data name="btn_6.Values.Text" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="&gt;&gt;btn_6.Name" xml:space="preserve">
+    <value>btn_6</value>
+  </data>
+  <data name="&gt;&gt;btn_6.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_6.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_6.ZOrder" xml:space="preserve">
+    <value>27</value>
+  </data>
+  <data name="btn_5.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_5.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 255</value>
+  </data>
+  <data name="btn_5.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_5.TabIndex" type="System.Int32, mscorlib">
+    <value>7</value>
+  </data>
+  <data name="btn_5.Values.Text" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="&gt;&gt;btn_5.Name" xml:space="preserve">
+    <value>btn_5</value>
+  </data>
+  <data name="&gt;&gt;btn_5.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_5.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_5.ZOrder" xml:space="preserve">
+    <value>29</value>
+  </data>
+  <data name="btn_4.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 255</value>
+  </data>
+  <data name="btn_4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_4.TabIndex" type="System.Int32, mscorlib">
+    <value>6</value>
+  </data>
+  <data name="btn_4.Values.Text" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="&gt;&gt;btn_4.Name" xml:space="preserve">
+    <value>btn_4</value>
+  </data>
+  <data name="&gt;&gt;btn_4.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_4.ZOrder" xml:space="preserve">
+    <value>31</value>
+  </data>
+  <data name="btn_dot.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_dot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 367</value>
+  </data>
+  <data name="btn_dot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_dot.TabIndex" type="System.Int32, mscorlib">
+    <value>5</value>
+  </data>
+  <data name="btn_dot.Values.Text" xml:space="preserve">
+    <value>.</value>
+  </data>
+  <data name="&gt;&gt;btn_dot.Name" xml:space="preserve">
+    <value>btn_dot</value>
+  </data>
+  <data name="&gt;&gt;btn_dot.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_dot.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_dot.ZOrder" xml:space="preserve">
+    <value>24</value>
+  </data>
+  <data name="btn_0.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_0.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 367</value>
+  </data>
+  <data name="btn_0.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_0.TabIndex" type="System.Int32, mscorlib">
+    <value>4</value>
+  </data>
+  <data name="btn_0.Values.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="&gt;&gt;btn_0.Name" xml:space="preserve">
+    <value>btn_0</value>
+  </data>
+  <data name="&gt;&gt;btn_0.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_0.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_0.ZOrder" xml:space="preserve">
+    <value>33</value>
+  </data>
+  <data name="btn_3.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_3.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 311</value>
+  </data>
+  <data name="btn_3.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_3.TabIndex" type="System.Int32, mscorlib">
+    <value>3</value>
+  </data>
+  <data name="btn_3.Values.Text" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="&gt;&gt;btn_3.Name" xml:space="preserve">
+    <value>btn_3</value>
+  </data>
+  <data name="&gt;&gt;btn_3.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_3.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_3.ZOrder" xml:space="preserve">
+    <value>32</value>
+  </data>
+  <data name="btn_2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 311</value>
+  </data>
+  <data name="btn_2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_2.TabIndex" type="System.Int32, mscorlib">
+    <value>2</value>
+  </data>
+  <data name="btn_2.Values.Text" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="&gt;&gt;btn_2.Name" xml:space="preserve">
+    <value>btn_2</value>
+  </data>
+  <data name="&gt;&gt;btn_2.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_2.ZOrder" xml:space="preserve">
+    <value>30</value>
+  </data>
+  <data name="btn_ChangeSign.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_ChangeSign.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 367</value>
+  </data>
+  <data name="btn_ChangeSign.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_ChangeSign.TabIndex" type="System.Int32, mscorlib">
+    <value>1</value>
+  </data>
+  <data name="btn_ChangeSign.Values.Text" xml:space="preserve">
+    <value>±</value>
+  </data>
+  <data name="&gt;&gt;btn_ChangeSign.Name" xml:space="preserve">
+    <value>btn_ChangeSign</value>
+  </data>
+  <data name="&gt;&gt;btn_ChangeSign.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_ChangeSign.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_ChangeSign.ZOrder" xml:space="preserve">
+    <value>28</value>
+  </data>
+  <data name="btn_Random.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Random.Location" type="System.Drawing.Point, System.Drawing">
+    <value>227, 367</value>
+  </data>
+  <data name="btn_Random.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Random.TabIndex" type="System.Int32, mscorlib">
+    <value>12</value>
+  </data>
+  <data name="btn_Random.Values.Text" xml:space="preserve">
+    <value>rand</value>
+  </data>
+  <data name="&gt;&gt;btn_Random.Name" xml:space="preserve">
+    <value>btn_Random</value>
+  </data>
+  <data name="&gt;&gt;btn_Random.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Random.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Random.ZOrder" xml:space="preserve">
+    <value>21</value>
+  </data>
+  <data name="btn_Plus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Plus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 311</value>
+  </data>
+  <data name="btn_Plus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Plus.TabIndex" type="System.Int32, mscorlib">
+    <value>13</value>
+  </data>
+  <data name="btn_Plus.Values.Text" xml:space="preserve">
+    <value>+</value>
+  </data>
+  <data name="&gt;&gt;btn_Plus.Name" xml:space="preserve">
+    <value>btn_Plus</value>
+  </data>
+  <data name="&gt;&gt;btn_Plus.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Plus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Plus.ZOrder" xml:space="preserve">
+    <value>20</value>
+  </data>
+  <data name="btn_Minus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Minus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 255</value>
+  </data>
+  <data name="btn_Minus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Minus.TabIndex" type="System.Int32, mscorlib">
+    <value>14</value>
+  </data>
+  <data name="btn_Minus.Values.Text" xml:space="preserve">
+    <value>-</value>
+  </data>
+  <data name="&gt;&gt;btn_Minus.Name" xml:space="preserve">
+    <value>btn_Minus</value>
+  </data>
+  <data name="&gt;&gt;btn_Minus.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Minus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Minus.ZOrder" xml:space="preserve">
+    <value>19</value>
+  </data>
+  <data name="btn_Multiplication.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Multiplication.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 199</value>
+  </data>
+  <data name="btn_Multiplication.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Multiplication.TabIndex" type="System.Int32, mscorlib">
+    <value>15</value>
+  </data>
+  <data name="btn_Multiplication.Values.Text" xml:space="preserve">
+    <value>×</value>
+  </data>
+  <data name="&gt;&gt;btn_Multiplication.Name" xml:space="preserve">
+    <value>btn_Multiplication</value>
+  </data>
+  <data name="&gt;&gt;btn_Multiplication.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Multiplication.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Multiplication.ZOrder" xml:space="preserve">
+    <value>18</value>
+  </data>
+  <data name="btn_Factorial.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Factorial.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 143</value>
+  </data>
+  <data name="btn_Factorial.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Factorial.TabIndex" type="System.Int32, mscorlib">
+    <value>16</value>
+  </data>
+  <data name="btn_Factorial.Values.Text" xml:space="preserve">
+    <value>n!</value>
+  </data>
+  <data name="&gt;&gt;btn_Factorial.Name" xml:space="preserve">
+    <value>btn_Factorial</value>
+  </data>
+  <data name="&gt;&gt;btn_Factorial.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Factorial.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Factorial.ZOrder" xml:space="preserve">
+    <value>17</value>
+  </data>
+  <data name="btn_Division.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Division.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 143</value>
+  </data>
+  <data name="btn_Division.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Division.TabIndex" type="System.Int32, mscorlib">
+    <value>17</value>
+  </data>
+  <data name="btn_Division.Values.Text" xml:space="preserve">
+    <value>÷</value>
+  </data>
+  <data name="&gt;&gt;btn_Division.Name" xml:space="preserve">
+    <value>btn_Division</value>
+  </data>
+  <data name="&gt;&gt;btn_Division.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Division.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Division.ZOrder" xml:space="preserve">
+    <value>16</value>
+  </data>
+  <data name="btn_SqRoot.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_SqRoot.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 143</value>
+  </data>
+  <data name="btn_SqRoot.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_SqRoot.TabIndex" type="System.Int32, mscorlib">
+    <value>18</value>
+  </data>
+  <data name="btn_SqRoot.Values.Text" xml:space="preserve">
+    <value>√</value>
+  </data>
+  <data name="&gt;&gt;btn_SqRoot.Name" xml:space="preserve">
+    <value>btn_SqRoot</value>
+  </data>
+  <data name="&gt;&gt;btn_SqRoot.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_SqRoot.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_SqRoot.ZOrder" xml:space="preserve">
+    <value>15</value>
+  </data>
+  <data name="btn_Percent.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Percent.Location" type="System.Drawing.Point, System.Drawing">
+    <value>227, 255</value>
+  </data>
+  <data name="btn_Percent.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Percent.TabIndex" type="System.Int32, mscorlib">
+    <value>19</value>
+  </data>
+  <data name="btn_Percent.Values.Text" xml:space="preserve">
+    <value>%</value>
+  </data>
+  <data name="&gt;&gt;btn_Percent.Name" xml:space="preserve">
+    <value>btn_Percent</value>
+  </data>
+  <data name="&gt;&gt;btn_Percent.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Percent.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Percent.ZOrder" xml:space="preserve">
+    <value>14</value>
+  </data>
+  <data name="btn_Power.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Power.Location" type="System.Drawing.Point, System.Drawing">
+    <value>59, 143</value>
+  </data>
+  <data name="btn_Power.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Power.TabIndex" type="System.Int32, mscorlib">
+    <value>20</value>
+  </data>
+  <data name="btn_Power.Values.Text" xml:space="preserve">
+    <value>^</value>
+  </data>
+  <data name="&gt;&gt;btn_Power.Name" xml:space="preserve">
+    <value>btn_Power</value>
+  </data>
+  <data name="&gt;&gt;btn_Power.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Power.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Power.ZOrder" xml:space="preserve">
+    <value>13</value>
+  </data>
+  <data name="btn_Equal.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Equal.Location" type="System.Drawing.Point, System.Drawing">
+    <value>171, 367</value>
+  </data>
+  <data name="btn_Equal.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Equal.TabIndex" type="System.Int32, mscorlib">
+    <value>21</value>
+  </data>
+  <data name="btn_Equal.Values.Text" xml:space="preserve">
+    <value>=</value>
+  </data>
+  <data name="&gt;&gt;btn_Equal.Name" xml:space="preserve">
+    <value>btn_Equal</value>
+  </data>
+  <data name="&gt;&gt;btn_Equal.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Equal.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Equal.ZOrder" xml:space="preserve">
+    <value>12</value>
+  </data>
+  <data name="btn_Sigma.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Sigma.Location" type="System.Drawing.Point, System.Drawing">
+    <value>227, 143</value>
+  </data>
+  <data name="btn_Sigma.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Sigma.TabIndex" type="System.Int32, mscorlib">
+    <value>22</value>
+  </data>
+  <data name="btn_Sigma.Values.Text" xml:space="preserve">
+    <value>∑</value>
+  </data>
+  <data name="&gt;&gt;btn_Sigma.Name" xml:space="preserve">
+    <value>btn_Sigma</value>
+  </data>
+  <data name="&gt;&gt;btn_Sigma.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Sigma.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Sigma.ZOrder" xml:space="preserve">
+    <value>11</value>
+  </data>
+  <data name="btn_PI.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_PI.Location" type="System.Drawing.Point, System.Drawing">
+    <value>227, 311</value>
+  </data>
+  <data name="btn_PI.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_PI.TabIndex" type="System.Int32, mscorlib">
+    <value>23</value>
+  </data>
+  <data name="btn_PI.Values.Text" xml:space="preserve">
+    <value>π</value>
+  </data>
+  <data name="&gt;&gt;btn_PI.Name" xml:space="preserve">
+    <value>btn_PI</value>
+  </data>
+  <data name="&gt;&gt;btn_PI.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_PI.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_PI.ZOrder" xml:space="preserve">
+    <value>10</value>
+  </data>
+  <data name="btn_Fraction.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Fraction.Location" type="System.Drawing.Point, System.Drawing">
+    <value>227, 199</value>
+  </data>
+  <data name="btn_Fraction.Size" type="System.Drawing.Size, System.Drawing">
+    <value>50, 50</value>
+  </data>
+  <data name="btn_Fraction.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="btn_Fraction.Values.Text" xml:space="preserve">
+    <value>⅟x</value>
+  </data>
+  <data name="&gt;&gt;btn_Fraction.Name" xml:space="preserve">
+    <value>btn_Fraction</value>
+  </data>
+  <data name="&gt;&gt;btn_Fraction.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Fraction.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Fraction.ZOrder" xml:space="preserve">
+    <value>9</value>
+  </data>
+  <data name="txt_Panel.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 48</value>
+  </data>
+  <data name="txt_Panel.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 47</value>
+  </data>
+  <data name="txt_Panel.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="txt_Panel.Text" xml:space="preserve">
+    <value>0</value>
+  </data>
+  <data name="txt_Panel.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="&gt;&gt;txt_Panel.Name" xml:space="preserve">
+    <value>txt_Panel</value>
+  </data>
+  <data name="&gt;&gt;txt_Panel.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonTextBox, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;txt_Panel.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;txt_Panel.ZOrder" xml:space="preserve">
+    <value>8</value>
+  </data>
+  <data name="btn_MemoryPlus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_MemoryPlus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 111</value>
+  </data>
+  <data name="btn_MemoryPlus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_MemoryPlus.TabIndex" type="System.Int32, mscorlib">
+    <value>27</value>
+  </data>
+  <data name="btn_MemoryPlus.Values.Text" xml:space="preserve">
+    <value>M+</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryPlus.Name" xml:space="preserve">
+    <value>btn_MemoryPlus</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryPlus.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryPlus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryPlus.ZOrder" xml:space="preserve">
+    <value>7</value>
+  </data>
+  <data name="btn_MemoryMinus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_MemoryMinus.Location" type="System.Drawing.Point, System.Drawing">
+    <value>39, 111</value>
+  </data>
+  <data name="btn_MemoryMinus.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_MemoryMinus.TabIndex" type="System.Int32, mscorlib">
+    <value>28</value>
+  </data>
+  <data name="btn_MemoryMinus.Values.Text" xml:space="preserve">
+    <value>M-</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryMinus.Name" xml:space="preserve">
+    <value>btn_MemoryMinus</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryMinus.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryMinus.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryMinus.ZOrder" xml:space="preserve">
+    <value>6</value>
+  </data>
+  <data name="btn_MemoryRecall.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_MemoryRecall.Location" type="System.Drawing.Point, System.Drawing">
+    <value>77, 111</value>
+  </data>
+  <data name="btn_MemoryRecall.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_MemoryRecall.TabIndex" type="System.Int32, mscorlib">
+    <value>29</value>
+  </data>
+  <data name="btn_MemoryRecall.Values.Text" xml:space="preserve">
+    <value>MR</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryRecall.Name" xml:space="preserve">
+    <value>btn_MemoryRecall</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryRecall.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryRecall.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryRecall.ZOrder" xml:space="preserve">
+    <value>5</value>
+  </data>
+  <data name="btn_MemoryClear.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_MemoryClear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>115, 111</value>
+  </data>
+  <data name="btn_MemoryClear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_MemoryClear.TabIndex" type="System.Int32, mscorlib">
+    <value>30</value>
+  </data>
+  <data name="btn_MemoryClear.Values.Text" xml:space="preserve">
+    <value>MC</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryClear.Name" xml:space="preserve">
+    <value>btn_MemoryClear</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryClear.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryClear.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_MemoryClear.ZOrder" xml:space="preserve">
+    <value>4</value>
+  </data>
+  <data name="btn_Backspace.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Backspace.Location" type="System.Drawing.Point, System.Drawing">
+    <value>245, 111</value>
+  </data>
+  <data name="btn_Backspace.OverrideDefault.Back.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAQ5JREFUSEvt
+        lMsJwlAQRVOGJbhxoW24EREEbUBcWoH/GlzalSWIoIgVPM/EydPwPvmYZS4czNz3mBtmgkmrv2WMWcKp
+        LtrGLy6s4QKLmhht5YqzrHlHrcoKBjTRXOQNCDWnHkJPS0ecjaCrZSrqfAB18M3xZnAFJwRvAjfoq5WK
+        +hvAc+FYOJtDLoTnrPlALSu8TwC/pWfOHRsCweYifFOpeSbuSsgTHuBtLuKsdoC8+QvuEFu8HdEGyo7I
+        jgWcnfwKP7fkLRQt2Zk5z8EQPOcz3YE3BC/2tXhDqPMBIrw9OCHUY4gtdArFASL8A1RavE/BAFETIdEA
+        EedHDfH9FZchHiDizgrOddE2rUJKkjdtqWVUc+eargAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_Backspace.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_Backspace.StateNormal.Back.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAQ5JREFUSEvt
+        lMsJwlAQRVOGJbhxoW24EREEbUBcWoH/GlzalSWIoIgVPM/EydPwPvmYZS4czNz3mBtmgkmrv2WMWcKp
+        LtrGLy6s4QKLmhht5YqzrHlHrcoKBjTRXOQNCDWnHkJPS0ecjaCrZSrqfAB18M3xZnAFJwRvAjfoq5WK
+        +hvAc+FYOJtDLoTnrPlALSu8TwC/pWfOHRsCweYifFOpeSbuSsgTHuBtLuKsdoC8+QvuEFu8HdEGyo7I
+        jgWcnfwKP7fkLRQt2Zk5z8EQPOcz3YE3BC/2tXhDqPMBIrw9OCHUY4gtdArFASL8A1RavE/BAFETIdEA
+        EedHDfH9FZchHiDizgrOddE2rUJKkjdtqWVUc+eargAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_Backspace.StatePressed.Back.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAQ5JREFUSEvt
+        lMsJwlAQRVOGJbhxoW24EREEbUBcWoH/GlzalSWIoIgVPM/EydPwPvmYZS4czNz3mBtmgkmrv2WMWcKp
+        LtrGLy6s4QKLmhht5YqzrHlHrcoKBjTRXOQNCDWnHkJPS0ecjaCrZSrqfAB18M3xZnAFJwRvAjfoq5WK
+        +hvAc+FYOJtDLoTnrPlALSu8TwC/pWfOHRsCweYifFOpeSbuSsgTHuBtLuKsdoC8+QvuEFu8HdEGyo7I
+        jgWcnfwKP7fkLRQt2Zk5z8EQPOcz3YE3BC/2tXhDqPMBIrw9OCHUY4gtdArFASL8A1RavE/BAFETIdEA
+        EedHDfH9FZchHiDizgrOddE2rUJKkjdtqWVUc+eargAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_Backspace.StateTracking.Back.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAAQ5JREFUSEvt
+        lMsJwlAQRVOGJbhxoW24EREEbUBcWoH/GlzalSWIoIgVPM/EydPwPvmYZS4czNz3mBtmgkmrv2WMWcKp
+        LtrGLy6s4QKLmhht5YqzrHlHrcoKBjTRXOQNCDWnHkJPS0ecjaCrZSrqfAB18M3xZnAFJwRvAjfoq5WK
+        +hvAc+FYOJtDLoTnrPlALSu8TwC/pWfOHRsCweYifFOpeSbuSsgTHuBtLuKsdoC8+QvuEFu8HdEGyo7I
+        jgWcnfwKP7fkLRQt2Zk5z8EQPOcz3YE3BC/2tXhDqPMBIrw9OCHUY4gtdArFASL8A1RavE/BAFETIdEA
+        EedHDfH9FZchHiDizgrOddE2rUJKkjdtqWVUc+eargAAAABJRU5ErkJggg==
+</value>
+  </data>
+  <data name="btn_Backspace.TabIndex" type="System.Int32, mscorlib">
+    <value>31</value>
+  </data>
+  <data name="btn_Backspace.Values.Text" xml:space="preserve">
+    <value />
+  </data>
+  <data name="&gt;&gt;btn_Backspace.Name" xml:space="preserve">
+    <value>btn_Backspace</value>
+  </data>
+  <data name="&gt;&gt;btn_Backspace.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Backspace.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Backspace.ZOrder" xml:space="preserve">
+    <value>3</value>
+  </data>
+  <data name="btn_ClearEntry.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_ClearEntry.Location" type="System.Drawing.Point, System.Drawing">
+    <value>207, 111</value>
+  </data>
+  <data name="btn_ClearEntry.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_ClearEntry.TabIndex" type="System.Int32, mscorlib">
+    <value>32</value>
+  </data>
+  <data name="btn_ClearEntry.Values.Text" xml:space="preserve">
+    <value>CE</value>
+  </data>
+  <data name="&gt;&gt;btn_ClearEntry.Name" xml:space="preserve">
+    <value>btn_ClearEntry</value>
+  </data>
+  <data name="&gt;&gt;btn_ClearEntry.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_ClearEntry.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_ClearEntry.ZOrder" xml:space="preserve">
+    <value>2</value>
+  </data>
+  <data name="btn_Clear.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
+    <value>NoControl</value>
+  </data>
+  <data name="btn_Clear.Location" type="System.Drawing.Point, System.Drawing">
+    <value>169, 111</value>
+  </data>
+  <data name="btn_Clear.Size" type="System.Drawing.Size, System.Drawing">
+    <value>32, 26</value>
+  </data>
+  <data name="btn_Clear.TabIndex" type="System.Int32, mscorlib">
+    <value>33</value>
+  </data>
+  <data name="btn_Clear.Values.Text" xml:space="preserve">
+    <value>C</value>
+  </data>
+  <data name="&gt;&gt;btn_Clear.Name" xml:space="preserve">
+    <value>btn_Clear</value>
+  </data>
+  <data name="&gt;&gt;btn_Clear.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonButton, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Clear.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Clear.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="btn_Panel2.Location" type="System.Drawing.Point, System.Drawing">
+    <value>3, 12</value>
+  </data>
+  <data name="btn_Panel2.Size" type="System.Drawing.Size, System.Drawing">
+    <value>274, 31</value>
+  </data>
+  <data name="btn_Panel2.TabIndex" type="System.Int32, mscorlib">
+    <value>34</value>
+  </data>
+  <data name="btn_Panel2.TextAlign" type="System.Windows.Forms.HorizontalAlignment, System.Windows.Forms">
+    <value>Right</value>
+  </data>
+  <data name="&gt;&gt;btn_Panel2.Name" xml:space="preserve">
+    <value>btn_Panel2</value>
+  </data>
+  <data name="&gt;&gt;btn_Panel2.Type" xml:space="preserve">
+    <value>ComponentFactory.Krypton.Toolkit.KryptonTextBox, ComponentFactory.Krypton.Toolkit, Version=4.6.0.0, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e</value>
+  </data>
+  <data name="&gt;&gt;btn_Panel2.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;btn_Panel2.ZOrder" xml:space="preserve">
+    <value>0</value>
+  </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
     <value>True</value>
   </metadata>
-  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="$this.AutoScaleDimensions" type="System.Drawing.SizeF, System.Drawing">
     <value>6, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>412, 414</value>
+    <value>281, 420</value>
   </data>
-  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAICAAAAEAIACoEAAAFgAAACgAAAAgAAAAQAAAAAEAIAAAAAAAABAAAN0AAADdAAAAAAAAAAAA
+        AAD///8A////AAAAAAFbSjWRVkMr9UgzFP9HMhL/RzIS/0cyEv9HMhL/RzIS/0cyEv9HMhL/RzIS/0cy
+        Ev9HMhL/RzIS/0cyEv9HMhL/RzIS/0cyEv9HMhL/RzIS/0cyEv9HMhL/RzIS/0cyEv9IMxT+TToc0AAA
+        AAL///8A////AP///wD///8AW0k0SVxJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJ
+        Nf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1tI
+        M/9NOBv/UDshff///wD///8A////AP///wBcSjaAXEk1/2BOOf9sWEP/bFhC/2xYQv9sWEL/bFhC/2xY
+        Qv9hTzr/YE45/2xYQ/9sWEL/bFhC/2xYQv9sWEL/bFhC/2FPOv9sWET/spyE/7Sehv+0nob/tJ6G/7Se
+        hv+0nob/eGRP/1E9I/9OOh3A////AP///wD///8A////AFxKNoBcSTX/bVtG/3lnUf90YUv/dGFL/3Rh
+        S/90YUv/cFtF/2xYQ/9tW0b/eWdR/3RhS/90YUv/dGFL/3RhS/9wW0X/bFhD/5uHc//WwKr/07yk/9O8
+        pP/TvKT/07yk/9C5n/+0nob/UT0j/046HcD///8A////AP///wD///8AXEo2gFxJNf9tW0b/fm1X/41+
+        a/+ThXL/kIJv/4l5Zf90YUv/bFhC/21bRv9+bVf/fm1X/5iLev+Yi3r/fm1X/3RhS/9sWEL/m4dz/9nE
+        sP+qloL/moZy/5qGcv+qloL/07yk/7Sehv9RPSP/TjodwP///wD///8A////AP///wBcSjaAXEk1/21b
+        Rv9+bVf/kYNx/97b1//e29f/kYNw/3RhS/9sWEL/bVtG/35tV/+mmov/s6md/7Opnf+mmov/dGFL/2xY
+        Qv+bh3P/2cSw/6qWgv+ahnL/moZy/6qWgv/TvKT/tJ6G/1E9I/9OOh3A////AP///wD///8A////AFxK
+        NoBcSTX/bVtG/35tV/+Rg3D/3tvX/97b1/+Qgm//dGFL/2xYQv9tW0b/fm1X/6aai/+zqZ3/s6md/6aa
+        i/90YUv/bFhC/5uHc//ZxLD/qpaC/5qGcv+ahnL/qpaC/9O8pP+0nob/UT0j/046HcD///8A////AP//
+        /wD///8AXEo2gFxJNf9tW0b/fm1X/4l5Zf+Qgm//kYNw/4l5Zf90YUv/bFhC/21bRv9+bVf/fm1X/5iL
+        ev+Yi3r/fm1X/3RhS/9sWEL/m4dz/9nEsP+qloL/moZy/5qGcv+qloL/07yk/7Sehv9RPSP/TjodwP//
+        /wD///8A////AP///wBcSjaAXEk1/21bRv9+bVf/fm1X/35tV/9+bVf/fm1X/3lnUf9sWEP/bVtG/35t
+        V/9+bVf/fm1X/35tV/9+bVf/eWdR/2xYQ/+bh3P/2cSw/9nEsP/ZxLD/2cSw/9nEsP/WwKr/spyE/1E9
+        I/9OOh3A////AP///wD///8A////AFxKNoBcSTX/YE45/21bRv9tW0b/bVtG/21bRv9tW0b/bVtG/2BO
+        Of9gTjn/bVtG/21bRv9tW0b/bVtG/21bRv9tW0b/YE45/2xYRP+bh3P/m4dz/5uHc/+bh3P/m4dz/5uH
+        c/9sWET/UT0j/046HcD///8A////AP///wD///8AXEo2gFxJNf9gTjn/bFhD/2xYQv9sWEL/bFhC/2xY
+        Qv9sWEL/YU86/2BOOf9sWEP/bFhC/2xYQv9sWEL/bFhC/2xYQv9hTzr/WEZK/0Avpf8/Laj/Py2o/z8t
+        qP8/Laj/Py2o/1NBWv9RPSP/TjodwP///wD///8A////AP///wBcSjaAXEk1/21bRv95Z1H/dGFL/3Rh
+        S/90YUv/dGFL/3BbRf9sWEP/bVtG/3lnUf90YUv/dGFL/3RhS/90YUv/cFtF/2xYQ/9NPor/Oy3Y/zgo
+        0v9PQNL/U0TS/zkp0v81Isz/Py2o/1E9I/9OOh3A////AP///wD///8A////AFxKNoBcSTX/bVtG/35t
+        V/9+bVf/ppqL/6aai/9+bVf/dGFL/2xYQv9tW0b/fm1X/35tV/9+bVf/fm1X/35tV/90YUv/bFhC/00+
+        iv9ANN7/x8Ph/7m04f+yrOH/urXh/zgn0v8/Laj/UT0j/046HcD///8A////AP///wD///8AXEo2gFxJ
+        Nf9tW0b/fm1X/6aai//Nx8D/zcfA/6aai/90YUv/bFhC/21bRv9+bVf/ppqL/7Opnf+zqZ3/ppqL/3Rh
+        S/9sWEL/TT6K/3Fo3/+7tuH/PzPe/z8z3v8/M97/OCfS/z8tqP9RPSP/TjodwP///wD///8A////AP//
+        /wBcSjaAXEk1/21bRv9+bVf/ppqL/83HwP/Nx8D/ppqL/3RhS/9sWEL/bVtG/35tV/+mmov/s6md/7Op
+        nf+mmov/dGFL/2xYQv9NPor/cGff/7u24f8/M97/PzPe/z8z3v84J9L/Py2o/1E9I/9OOh3A////AP//
+        /wD///8A////AFxKNoBcSTX/bVtG/35tV/9+bVf/ppqL/6aai/9+bVf/dGFL/2xYQv9tW0b/fm1X/35t
+        V/9+bVf/fm1X/35tV/90YUv/bFhC/00+iv9ANN7/ycbh/7m04f+yrOH/urXh/zgn0v8/Laj/UT0j/046
+        HcD///8A////AP///wD///8AXEo2gFxJNf9tW0b/fm1X/35tV/9+bVf/fm1X/35tV/95Z1H/bFhD/21b
+        Rv9+bVf/fm1X/35tV/9+bVf/fm1X/3lnUf9sWEP/TT6K/z8z3v9ANN7/bWTf/3Vs3/9CNt7/Oy3Y/0Av
+        pf9RPSP/TjodwP///wD///8A////AP///wBcSjaAXEk1/2BOOf9tW0b/bVtG/21bRv9tW0b/bVtG/21b
+        Rv9gTjn/YE45/21bRv9tW0b/bVtG/21bRv9tW0b/bVtG/2BOOf9YRkr/TT6K/00+iv9NPor/TT6K/00+
+        iv9NPor/WEZK/1E9I/9OOh3A////AP///wD///8A////AFxKNoBcSTX/XEk1/1xJNf9cSTX/XEk1/1xJ
+        Nf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJ
+        Nf9cSTX/XEk1/1xJNf9cSTX/UT0j/046HcD///8A////AP///wD///8AXEo2gFxJNf9dWUD/YIhf/2CI
+        X/9giF//YIhf/2CIX/9giF//YIhf/2CIX/9giF//YIhf/2CIX/9giF//YIhf/2CIX/9giF//YIhf/2CI
+        X/9giF//YIhf/2CIX/9giF//YIhf/11ZQP9RPSP/TjodwP///wD///8A////AP///wBcSjaAXEk1/2CI
+        X/9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/YIhf/1E9I/9OOh3A////AP///wD///8A////AFxK
+        NoBcSTX/YIhf/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9gwn3/TZ4n/0eTDv9Nnif/YMJ9/2PHif9giF//UT0j/046HcD///8A////AP//
+        /wD///8AXEo2gFxJNf9giF//Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/1awUv9Rpjz/Y8eJ/1GmPP9WsFL/Y8eJ/2CIX/9RPSP/TjodwP//
+        /wD///8A////AP///wBcSjaAXEk1/2CIX/9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Va1L/1WtS/9jx4n/Va1L/1WtS/9jx4n/YIhf/1E9
+        I/9OOh3A////AP///wD///8A////AFxKNoBcSTX/YIhf/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9VrUv/Va1L/2PHif9VrUv/Va1L/2PH
+        if9giF//UT0j/046HcD///8A////AP///wD///8AXEo2gFxJNf9giF//Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/1awUv9Rpjz/Y8eJ/1Gm
+        PP9WsFL/Y8eJ/2CIX/9RPSP/TjodwP///wD///8A////AP///wBcSjaAXEk1/2CIX/9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/YMJ9/02e
+        J/9Hkw7/TZ4n/2DCff9jx4n/YIhf/1E9I/9OOh3A////AP///wD///8A////AFxKNoBcSTX/YIhf/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PH
+        if9jx4n/Y8eJ/2PHif9jx4n/Y8eJ/2PHif9giF//UT0j/046HcD///8A////AP///wD///8AXEo2gFxJ
+        Nf9YmVL/Vr5i/1a+Yv9WvmL/Vr5i/1a+Yv9WvmL/Vr5i/1a+Yv9WvmL/Vr5i/1a+Yv9WvmL/Vr5i/1a+
+        Yv9WvmL/Vr5i/1a+Yv9WvmL/Vr5i/1a+Yv9WvmL/Vr5i/1iZUv9RPSP/TjodwP///wD///8A////AP//
+        /wBcSjaAXEk1/1tlP/9Vn03/VZ9N/1WfTf9Vn03/VZ9N/1WfTf9Vn03/VZ9N/1WfTf9Vn03/VZ9N/1Wf
+        Tf9Vn03/VZ9N/1WfTf9Vn03/VZ9N/1WfTf9Vn03/VZ9N/1WfTf9Vn03/W2U//1ZDLP9POyC5////AP//
+        /wD///8A////AFtJNElcSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJ
+        Nf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1xJNf9cSTX/XEk1/1tJ
+        NEn///8A////AP///wD///8AAAAAAVtKNZFiTTn1b1hC/3BZQ/9wWUP/cFlD/3BZQ/9wWUP/cFlD/3BZ
+        Q/9wWUP/cFlD/3BZQ/9wWUP/cFlD/3BZQ/9wWUP/cFlD/3BZQ/9wWUP/cFlD/3BZQ/9wWUP/b1hC/2JN
+        OfVbSjWRAAAAAf///wD///8AwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AA
+        AAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAPAAAADwAAAA8AA
+        AAPAAAADwAAAA8AAAAPAAAADwAAAA8AAAAM=
+</value>
+  </data>
   <data name="$this.StartPosition" type="System.Windows.Forms.FormStartPosition, System.Windows.Forms">
     <value>CenterScreen</value>
   </data>
